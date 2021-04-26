@@ -26,11 +26,6 @@ Object API (Amazon S3 compatible):
    .NET:       https://docs.min.io/docs/dotnet-client-quickstart-guide
 ```
 
-## スクリプト実行
-
-
-
-
 ## 画像について
 
 images配下の画像ファイルは[いらすとや](https://www.irasutoya.com/)からお借りしています。
